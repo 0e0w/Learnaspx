@@ -6,14 +6,14 @@
 
 本项目创建于2020年11月30日。最近一次更新时间为2022年1月19日。
 
-- [0x01-ASPX资源]()
-- [0x02-ASPX框架]()
-- [0x03-ASPX项目]()
-- [0x04-ASPX漏洞]()
-- [0x05-ASPX安全]()
-- [0x06-ASPX老师]()
+- [01-ASPX资源]()
+- [02-ASPX框架]()
+- [03-ASPX项目]()
+- [04-ASPX漏洞]()
+- [05-ASPX安全]()
+- [06-ASPX老师]()
 
-## 0x01-ASPX资源
+## 01-ASPX资源
 
 一、基础入门
 - [ ] https://github.com
@@ -31,11 +31,11 @@
 六、杂七杂八
 - [ ] https://github.com
 
-## 0x02-ASPX框架
+## 02-ASPX框架
 
-## 0x03-ASPX项目
+## 03-ASPX项目
 
-## 0x04-ASPX漏洞
+## 04-ASPX漏洞
 
 本部分详解ASPX漏洞内容。包括ASPX的常规漏洞，以及ASPX代码审计等相关内容。
 
@@ -62,7 +62,7 @@
 - CSRF跨站请求伪造
 - SSRF服务端请求伪造
 
-## 0x05-ASPX安全
+## 05-ASPX安全
 
 〇、HackWithASPX
 - [ ] https://github.com/topics/xss?l=ASPX
@@ -101,6 +101,6 @@
 十一、其他项目
 - [ ] https://github.com
 
-## 0x06-ASPX老师
+## 06-ASPX老师
 
 - [ ] ASPX老师
