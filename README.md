@@ -4,7 +4,7 @@
 
 关于ASPX的学习教程，可以参考[《365天深入理解ASPX》]()。
 
-本项目创建于2020年11月30日。最近一次更新时间为2022年1月19日。
+本项目创建于2020年11月30日。最近一次更新时间为2022年3月9日。
 
 - [01-ASPX资源]()
 - [02-ASPX框架]()
@@ -16,7 +16,9 @@
 ## 01-ASPX资源
 
 一、基础入门
-- [ ] https://github.com
+- [ ] https://www.runoob.com/aspnet/aspnet-tutorial.html
+- [ ] https://www.w3school.com.cn/aspnet/webpages_ref_classes.asp
+- [ ] https://www.runoob.com/csharp/csharp-tutorial.html
 
 二、高手进阶
 
